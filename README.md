@@ -4,6 +4,8 @@ AppImages for Minetest 5.0+ for 32bit and 64bit! Both client and server AppImage
 
 Tested on fresh installations of:
 
+· Ubuntu Trusty 14.04 (32 and 64 bit)
+
 · Ubuntu Xenial 16.04 (32 and 64 bit)
 
 · Ubuntu Bionic 18.04 (32 and 64 bit)
