@@ -8,4 +8,4 @@ Please let me know if you encounter any errors. Report them on the issues page.
 
 Credit to [Calinou](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=194) for the Appimages he created. I used the libraries from them.
 
-If you have any information on building Minetest for i386, let me know! I'll be making a server build soon!
+If you have any information on building Minetest for i386, let me know!
