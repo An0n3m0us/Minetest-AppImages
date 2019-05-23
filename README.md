@@ -1,4 +1,4 @@
-# MinetestAppimage
+# Minetest-Appimages
 
 AppImages for Minetest 5.0.1 and 5.1-dev for 32bit and 64bit! Both client and server AppImages are provided. Tested on fresh installations of Ubuntu Xenial 16.04, 32 and 64 bit.
 
