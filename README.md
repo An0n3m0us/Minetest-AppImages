@@ -2,15 +2,18 @@
 
 AppImages for Minetest 5.0+ for 32bit and 64bit! Both client and server AppImages are provided.
 
-Tested on fresh installations (32bit and 64bit) of:
+Tested on fresh installations from the oldest release it works on to the newest release tested:
+(All of the releases in between should work too)
 
-· Ubuntu (Trusty 14.04, Xenial 16.04, Bionic 18.04)
+· Ubuntu (Trusty 14.04, Disco 19.04)
 
-· Debian 8 and 9
+· Debian (8 Jessie, 9 Stretch)
 
-· Fedora 30 (only 32bit works)
+· Fedora (30) (only 32bit works, 64bit WIP)
 
-· Linux Mint 19.1
+· OpenSUSE (15 Leap, Tumbleweed)
+
+· KDE (Plasma 5.12.8, Ko 5.15.9)
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by using `chmod +x <file>` in the terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Double-click the AppImage to run Minetest.
