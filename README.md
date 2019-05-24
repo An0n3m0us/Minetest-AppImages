@@ -4,11 +4,11 @@ AppImages for Minetest 5.0+ for 32bit and 64bit! Both client and server AppImage
 
 Tested on fresh installations (32bit and 64bit) of:
 
-· Ubuntu (Xenial 16.04, Bionic 18.04)
+· Ubuntu (Trusty 14.04, Xenial 16.04, Bionic 18.04)
 
-· Debian 9
+· Debian 8 and 9
 
-· Fedora 30 (only server works for 64bit)
+· Fedora 30 (only 32bit works)
 
 · Linux Mint 19.1
 
