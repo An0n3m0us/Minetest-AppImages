@@ -9,9 +9,9 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 · Debian (8 Jessie, 9 Stretch)
 
-· Fedora (30) (only 32bit works, 64bit WIP)
+· Fedora (28, 30) (only 32bit works, 64bit WIP)
 
-· OpenSUSE (15 Leap, Tumbleweed)
+· OpenSUSE (Leap 15, Tumbleweed)
 
 · KDE (Plasma 5.12.8, Ko 5.15.9)
 
