@@ -15,6 +15,10 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 · KDE (Plasma 5.12.8, Ko 5.15.9)
 
+· XFCE (MX Linux 17.1, MX Linux 18.2) (32 bit only)
+
+· LXDE/LXQT
+
 · Archlinux (Antergos 19.4)
 
 ## Running
