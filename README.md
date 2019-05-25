@@ -9,11 +9,13 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 · Debian (8 Jessie, 9 Stretch)
 
-· Fedora (28, 30) (for Fedora 29 and 30, only the 32bit Minetest works)
+· Fedora (28, 30)
 
 · OpenSUSE (Leap 15, Tumbleweed)
 
 · KDE (Plasma 5.12.8, Ko 5.15.9)
+
+· Archlinux (Antergos 19.4)
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by using `chmod +x <file>` in the terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Double-click the AppImage to run Minetest.
