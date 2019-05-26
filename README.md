@@ -22,7 +22,7 @@ Tested on fresh installations from the oldest release it works on to the newest 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by using `chmod +x <file>` in the terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Double-click the AppImage to run Minetest.
 
-The directory used by the Minetest AppImages is $HOME/.minetest/ so you may place your mods, games and texture packs in there.
+The directory used by the Minetest AppImages is `$HOME/.minetest/` so you may place your mods, games and texture packs in there.
 
 ## Setting up Minetest globally
 (i.e running minetest from the terminal with `minetest-$VERSION`)
