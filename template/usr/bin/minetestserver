@@ -1,0 +1,6 @@
+#!/bin/sh
+DIR=`dirname $0`
+
+export LD_LIBRARY_PATH="$DIR/../lib/x86_64-linux-gnu:${LD_LIBRARY_PATH}"
+
+$DIR/minetestserver-x86_64.bin "$2" "$3"

@@ -1,0 +1,8 @@
+#!/bin/sh
+DIR=`dirname $0`
+
+if [ "$1" = "--server" ]; then
+    $DIR/usr/bin/minetestserver "$@"
+else
+    $DIR/usr/bin/minetest "$@"
+fi
