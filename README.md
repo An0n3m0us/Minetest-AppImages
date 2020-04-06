@@ -7,11 +7,11 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 · Ubuntu (Trusty 14.04, Eoan 19.10)
 
-· Fedora (30, 31) - TODO for 5.2.0
+· Fedora (30, 31)
 
-· OpenSUSE (Leap 15, Tumbleweed) - TODO for 5.2.0
+· OpenSUSE (Leap 15, Tumbleweed)
 
-· Archlinux (Manjaro 19.0) - TODO for 5.2.0
+· Archlinux (Manjaro 19.0.2)
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Then, double-click the AppImage to run Minetest.
