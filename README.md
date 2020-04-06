@@ -5,19 +5,13 @@ AppImages for Minetest 5.0.1+ for 32bit and 64bit! Both client and server are in
 Tested on fresh installations from the oldest release it works on to the newest release tested:
 (All of the releases in between should work too)
 
-· Ubuntu (Trusty 14.04, Disco 19.04)
+· Ubuntu (Trusty 14.04, Eoan 19.10)
 
-· Debian (8 Jessie, 9 Stretch)
+· Fedora (30, 31) - TODO for 5.2.0
 
-· Fedora (28, 30)
+· OpenSUSE (Leap 15, Tumbleweed) - TODO for 5.2.0
 
-· OpenSUSE (Leap 15, Tumbleweed)
-
-· KDE (Plasma 5.12.8, Ko 5.15.9)
-
-· XFCE (MX Linux 17.1, MX Linux 18.2)
-
-· Archlinux (Antergos 19.4)
+· Archlinux (Manjaro 19.0) - TODO for 5.2.0
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Then, double-click the AppImage to run Minetest.
