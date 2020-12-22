@@ -1,8 +1,8 @@
-Archived; see: [Auto build client appimage](https://github.com/minetest/minetest/pull/10561#issue-509965074)
-
 # Minetest-AppImages
 
-AppImages for Minetest in 32bit and 64bit! Both client and server are in the same executable.
+(Mostly for dev builds only. For major releases, see: [Auto build client appimage](https://github.com/minetest/minetest/pull/10561#issue-509965074))
+
+AppImages for Minetest dev builds in 32bit and 64bit! Both client and server are in the same executable.
 
 Tested on fresh installations from the oldest release it works on to the newest release tested:
 (All of the releases in between should work too)
