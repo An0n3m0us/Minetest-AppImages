@@ -9,7 +9,7 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 · Ubuntu (Trusty 14.04, Zesty 17.04, Focal 20.04)
 
-· Fedora (30, 32)
+· Fedora (30, 34)
 
 · OpenSUSE (Leap 15.1, Tumbleweed)
 
