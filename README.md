@@ -1,19 +1,19 @@
 # Minetest-AppImages
 
-(Mostly for dev builds only. For major releases, see: [Auto build client appimage](https://github.com/minetest/minetest/pull/10561#issue-509965074))
-
 AppImages for Minetest dev builds in 32bit and 64bit! Both client and server are in the same executable.
 
-Tested on fresh installations from the oldest release it works on to the newest release tested:
+Tested on fresh installations from the oldest releases to the newest releases tested:
 (All of the releases in between should work too)
 
-· Ubuntu (Trusty 14.04, Zesty 17.04, Focal 20.04)
+· Ubuntu (Trusty 14.04, Zesty 17.04, Groovy 20.10)
 
-· Fedora (30, 34)
+· Fedora (30, 33)
 
-· OpenSUSE (Leap 15.1, Tumbleweed)
+· OpenSUSE (Leap 15.2, Tumbleweed)
 
-· Archlinux (Manjaro 20.0.3)
+· Archlinux (Manjaro 20.0.3, Manjaro 20.2.1)
+
+<sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Then, double-click the AppImage to run Minetest.
