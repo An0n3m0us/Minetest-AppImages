@@ -1,19 +1,21 @@
 # Minetest-AppImages
 
-AppImages for Minetest dev builds in 32bit and 64bit! Both client and server are in the same executable.
+AppImages for Minetest dev builds in 32 bit[^1] and 64bit! Both client and server are in the same executable.
 
 Tested on fresh installations from the oldest releases to the newest releases tested:
 (All of the releases in between should work too)
 
-· Ubuntu (Trusty 14.04, Zesty 17.04, Groovy 20.10)
+· Ubuntu (Xenial 16.04, Impish 21.10)
 
-· Fedora (30, 33)
+· Fedora (33, 35)
 
 · OpenSUSE (Leap 15.2, Tumbleweed)
 
-· Archlinux (Manjaro 20.0.3, Manjaro 20.2.1)
+· Archlinux (Manjaro 21.1.5)
 
 <sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
+
+[^1]: Halted unless a need for i386 arises as it requires extra work to compile, test and manage libraries
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Then, double-click the AppImage to run Minetest.
