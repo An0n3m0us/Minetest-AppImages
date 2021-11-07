@@ -5,13 +5,13 @@ AppImages for Minetest dev builds in 32 bit[^1] and 64bit! Both client and serve
 Tested on fresh installations from the oldest releases to the newest releases tested:
 (All of the releases in between should work too)
 
-· Ubuntu (Xenial 16.04, Impish 21.10)
+· Ubuntu (Bionic 18.04, Impish 21.10)
 
 · Fedora (33, 35)
 
-· OpenSUSE (Leap 15.2, Tumbleweed)
+· OpenSUSE (Leap 15.3, Tumbleweed)
 
-· Archlinux (Manjaro 21.1.5)
+· Archlinux (Manjaro 21.1.6)
 
 <sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
 
@@ -38,5 +38,3 @@ You can now create a launcher in the applications menu to launch it.
 ## Other
 
 Please let me know if you encounter any errors. Report them on the issues page.
-
-Credit to [Calinou](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=194) for the x64 AppImages he created. I used the libraries from them.
