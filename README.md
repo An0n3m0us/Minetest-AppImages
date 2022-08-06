@@ -3,7 +3,6 @@
 AppImages for Minetest dev builds in 32 bit[^1] and 64bit! Both client and server are in the same executable.
 
 Tested on fresh installations from the oldest releases to the newest releases tested:
-(All of the releases in between should work too)
 
 · Ubuntu (Xenial 16.04, Kudu 22.10)
 
@@ -16,6 +15,10 @@ Tested on fresh installations from the oldest releases to the newest releases te
 <sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
 
 [^1]: Halted unless a need for i386 arises as it requires extra work to compile, test and manage libraries
+
+All of the releases in between should work too.
+
+Please let me know if you encounter any errors. Report them on the issues page.
 
 ## Running
 Download the AppImages from the release page! Then, make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox. Then, double-click the AppImage to run Minetest.
@@ -34,7 +37,3 @@ First, rename the AppImage to minetest-$VERSION or just minetest; eg: minetest-5
 Move the AppImage to $HOME/bin/ then open a terminal and enter `minetest-$VERSION` or `minetest`. Minetest should now launch.
 
 You can now create a launcher in the applications menu to launch it.
-
-## Other
-
-Please let me know if you encounter any errors. Report them on the issues page.

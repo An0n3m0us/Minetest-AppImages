@@ -1,5 +1,7 @@
 libasn1.so.8
 libasn1.so.8.0.0
+libcrypt-2.23.so
+libcrypt.so.1
 libcurl-gnutls.so.4
 libcurl-gnutls.so.4.4.0
 libgnutls.so.30
