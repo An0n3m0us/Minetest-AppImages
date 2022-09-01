@@ -10,7 +10,7 @@ Tested on fresh installations from the oldest releases to the newest releases te
 
 · OpenSUSE (Leap 15.4, Tumbleweed)
 
-· Archlinux (Manjaro 21.3.6)
+· Archlinux (Manjaro 21.3.7)
 
 <sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
 
