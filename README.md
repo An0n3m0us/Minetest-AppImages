@@ -4,13 +4,13 @@ AppImages for Minetest dev builds in 32 bit[^1] and 64bit! Both client and serve
 
 Tested on fresh installations from the oldest releases to the newest releases tested:
 
-· Ubuntu (Xenial 16.04, Kudu 22.10)
+· Ubuntu (Xenial 16.04, Lobster 23.04)
 
 · Fedora (33, 36)
 
 · OpenSUSE (Leap 15.4, Tumbleweed)
 
-· Archlinux (Manjaro 21.3.7)
+· Archlinux (Manjaro 22.0.5)
 
 <sub>For Chromebook users: https://www.linuxmadesimple.info/2020/07/how-to-install-minetest-53-on-chromebook.html</sub>
 

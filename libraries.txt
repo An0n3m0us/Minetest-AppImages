@@ -2,6 +2,7 @@ libasn1.so.8
 libasn1.so.8.0.0
 libcrypt-2.23.so
 libcrypt.so.1
+libcrypto.so.1.0.0
 libcurl-gnutls.so.4
 libcurl-gnutls.so.4.4.0
 libgnutls.so.30
@@ -14,6 +15,8 @@ libheimbase.so.1
 libheimbase.so.1.0.0
 libheimntlm.so.0
 libheimntlm.so.0.1.0
+libhiredis.so
+libhiredis.so.0.13
 libhogweed.so.4
 libhogweed.so.4.2
 libhx509.so.5
@@ -48,6 +51,9 @@ libpcre2-8.so.0
 libpcre2-8.so.0.3.0
 libpng12.so.0
 libpng12.so.0.54.0
+libpq.so
+libpq.so.5
+libpq.so.5.8
 libroken.so.18
 libroken.so.18.1.0
 librtmp.so.1
@@ -59,7 +65,11 @@ libspatialindex_c.so.4
 libspatialindex_c.so.4.0.1
 libspatialindex.so.4
 libspatialindex.so.4.0.1
+libssl.so.1.0.0
 libtinfo.so.5
 libtinfo.so.5.9
 libwind.so.0
 libwind.so.0.0.0
+libzstd.so
+libzstd.so.1
+libzstd.so.1.5.5
